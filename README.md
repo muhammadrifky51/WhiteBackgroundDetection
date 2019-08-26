@@ -1,4 +1,4 @@
-#White Background Detection
+# White Background Detection
 
 Person who contributed to this project: <br />
 ..*	Christopher Nugraha<br />
